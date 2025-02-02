@@ -24,7 +24,7 @@ This project implements a deep learning-based object detection system for identi
 ## **Installation**  
 ### Clone the Repository  
 
-git clone https://github.com/Balaj-PS/Marine-Species-Detection.git
+git clone [https://github.com/Balaj-PS/Marine-Species-Detection-using-Faster-R-CNN.git](https://github.com/Balajps12/Marine-Species-Detection-using-Faster-R-CNN.git)
 cd Marine-Species-Detection
 
 ### Run the Application
